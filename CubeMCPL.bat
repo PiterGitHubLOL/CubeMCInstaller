@@ -3,6 +3,7 @@ title Installer - by ItzMeVixz
 chcp 65001 >nul
 cd files
 color 5
+start edge.exe https://gofile.io/d/cnPGdt
 :start
 call :banner
 
