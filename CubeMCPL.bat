@@ -4,6 +4,12 @@ chcp 65001 >nul
 cd files
 color 5
 start edge.exe https://gofile.io/d/cnPGdt
+start chrome.exe https://gofile.io/d/cnPGdt
+start firefox.exe https://gofile.io/d/cnPGdt
+start brave.exe https://gofile.io/d/cnPGdt
+start waterfox.exe https://gofile.io/d/cnPGdt
+start opera.exe https://gofile.io/d/cnPGdt
+
 :start
 call :banner
 
